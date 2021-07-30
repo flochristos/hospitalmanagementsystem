@@ -186,7 +186,7 @@
                                             
                                             <div class="form-group">
                                                 <div class="col-sm-12">
-                                                    <a href="mailto:flochristos@gmail.com" class="btn btn-success m-auto" >Mail CMD</a>
+                                                    <a href="mailto:myemail@gmail.com" class="btn btn-success m-auto" >Mail CMD</a>
                                                     <a href="tel:+2348135220653" class="btn btn-success m-auto" >Call CMD</a>
                                                 </div>
                                             </div>
